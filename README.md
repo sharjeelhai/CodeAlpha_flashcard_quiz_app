@@ -1,16 +1,33 @@
-# flashcard_quiz
+📘 Flashcard Quiz App
 
-A new Flutter project.
+A Flutter-based mobile application developed as Task 1 of my CodeAlpha Internship. The app helps users study and memorize concepts through interactive flashcards and quizzes.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+Create, edit, and delete flashcards
 
-A few resources to get you started if this is your first Flutter project:
+“Show Answer” toggle for self-testing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Navigate between cards easily (Next / Previous)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Local database for offline data storage
+
+Clean, responsive, and user-friendly interface
+
+🛠️ Tech Stack
+
+Framework: Flutter
+
+Language: Dart
+
+Database: Local (sqflite / hive)
+
+IDE: VS Code
+
+🎯 Objective
+
+To design a simple yet effective study tool that improves user engagement and learning through an interactive quiz-based approach.
+
+📖 Internship
+
+Developed as part of the CodeAlpha Internship Program (Task 1).
