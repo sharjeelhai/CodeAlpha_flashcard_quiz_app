@@ -1,6 +1,6 @@
 📘 Flashcard Quiz App
 
-A Flutter-based mobile application developed as Task 1 of my CodeAlpha Internship. The app helps users study and memorize concepts through interactive flashcards and quizzes.
+A Flutter-based mobile application developed . The app helps users study and memorize concepts through interactive flashcards and quizzes.
 
 🚀 Features
 
@@ -28,6 +28,4 @@ IDE: VS Code
 
 To design a simple yet effective study tool that improves user engagement and learning through an interactive quiz-based approach.
 
-📖 Internship
 
-Developed as part of the CodeAlpha Internship Program (Task 1).
